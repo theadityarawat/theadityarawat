@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi there 👋 Hi, I’m Aditya
+- 👀 I’m interested in Designing ![canva](https://img.shields.io/badge/canva-%2314354C.svg?style=for-the-badge&logo=canva&logoColor=skyblue) & ![figma](https://img.shields.io/badge/figma-%2314354C.svg?style=for-the-badge&logo=figma&logoColor=red) & ![adobe](https://img.shields.io/badge/adobe-%2314354C.svg?style=for-the-badge&logo=adobe&logoColor=white)
+@@ -14,30 +13,5 @@
 
+- 🍁 Follow Me On My Social Handle      [<img src="https://img.icons8.com/nolan/240/github.png" alt='github' height='32'>](https://github.com/devprashantt) [<img src="https://img.icons8.com/nolan/240/instagram-new.png" alt='instagram' height='32'>](https://www.instagram.com/prashantt_kumarr_/) [<img src="https://img.icons8.com/nolan/240/linkedin.png" alt='linkedin' height='32'>](https://www.linkedin.com/in/prashanttkumarr/) [<img src="https://img.icons8.com/nolan/240/chrome.png" alt='twitter' height='32'>](https://sites.google.com/view/bloodfank/nature)
+
+ <a href="https://www.github.com/devprashantt" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/devprashantt?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityarawat313&theme=dark&show_icons=true) 
 <!--
 **Adityarawat313/Adityarawat313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
