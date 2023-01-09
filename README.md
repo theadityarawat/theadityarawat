@@ -2,13 +2,13 @@
 <h3 align="center">💖development. Believe, and the rest will happen.</h3>
 <h2 align="center">❤:india:</h2>
 
-- 🌱 I’m currently learning **Flutter & Web Dev**
+- 🌱 I’m currently learning **Python**
 
 - 🤝 I’m looking for help with **Web Development**
 
 - 🥂 I have interest in **Content Writing, Marketing and PR**
 
-- 💬 Ask me about **C++, Google Cloud, IBM Watson**
+- 💬 Ask me about **C++, Google Cloud, IBM Watson, Flutter**
 
 - 📫 How to reach me **adityarawat313@gmail.com**
 
