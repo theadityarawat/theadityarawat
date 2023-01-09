@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking for help with **Web Development**
 
-- 🥂 I have interest in **Content Writing, Marketing and PR**
+- 🥂 I have interest in **Content Writing, News and PR**
 
 - 💬 Ask me about **C++, Google Cloud, IBM Watson, Flutter**
 
